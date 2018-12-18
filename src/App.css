@@ -1,0 +1,8 @@
+.App h1 {
+    text-align: center;
+    color: darkcyan;
+    font: 40px Broadway sans-serif;
+}
+h1 {
+    text-shadow: 1px 1px gray;
+}
